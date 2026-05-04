@@ -14,11 +14,11 @@
 <br>
 <p>  now i added a readme file and then</p>
 <br>
-used  git add .  to save all the changes in files
+<p>used  git add .  to save all the changes in files</p>
 <br>
-git status, to check the status
+<p>git status, to check the status</p>
 <br>
-git commit -m "msg"  to commit changes 
+<p>git commit -m "msg"  to commit changes </p>
 <br>
-git push origin main  tp push the changes in the repo
+<p>git push origin main  tp push the changes in the repo</p>
 
